@@ -54,12 +54,12 @@
 ## Скриншоты
 
 - Успешное выполнение GitLab pipeline
-<img src="screenshots/gitlab_pipeline.png" width="700">
+<img src="screenshots/GitLab/gitlab_pipeline.png" width="700">
 - Успешно задеплоенный веб-сайт
-<img src="screenshots/deployed_website.png" width="700">
+<img src="screenshots/GitLab/deployed_website.png" width="700">
 - Автоматическое обновление сайта после нового commit
-<img src="screenshots/code_changes.png" width="700">
-<img src="screenshots/deployed_changes.png" width="700">
+<img src="screenshots/GitLab/code_changes.png" width="700">
+<img src="screenshots/GitLab/deployed_changes.png" width="700">
 
 ---
 
