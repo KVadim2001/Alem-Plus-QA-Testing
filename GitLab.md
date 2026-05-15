@@ -48,7 +48,9 @@
 ## Скриншоты
 
 - Успешное выполнение GitLab pipeline
+![Pipeline Success](screenshots/gitlab_pipeline.png)
 - Успешно задеплоенный веб-сайт
+![Pipeline Success](screenshots/deployed_website.png)
 - Автоматическое обновление сайта после нового commit
 
 ---
