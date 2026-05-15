@@ -94,11 +94,11 @@
 
 # Скриншоты
 - Dashboard Bult.ai
-<img src="screenshots/bult/dashboard.png" width="700">
+<img src="screenshots/Bult/dashboard.png" width="700">
 - Успешный deployment
-<img src="screenshots/bult/deployment-success.png" width="700">
+<img src="screenshots/Bult/deployment-success.png" width="700">
 - Deployed website
-<img src="screenshots/bult/website.png" width="700">
+<img src="screenshots/Bult/website.png" width="700">
 
 ---
 
